@@ -2,27 +2,27 @@
 
 # GENERAL SITE SETTINGS
 # title: This will be displayed as the website's name in your browser tab.
-title: Prashant Saini
+title: dr3amda3mon
 # description: This will be meta HTML tag content. This can be ignored.
-description: Personal website to showcase the portfolio
+description: Personal website to showcase my portfolio
 # baseurl: The subpath of your site
 # > set this to "", if you renamed the repository to <user>.github.io
 baseurl: "/profile"
 
 # LANDING PAGE
 # username: This will displayed on the landing page as your name.
-username: 0xPrashant
+username: dr3amda3mon
 # typing_text: This will be typed before 'scroll down for more'.
 # > set this to your job title, e.g. Fullstack Developer
-typing_text: Penetration Tester , Bug Bounty Hunter , 
+typing_text: cybersecurity student, avid tinkerer and thinker
 # email: Your E-Mail address for the email button.
-email: prashant.saini345@gmail.com
+email: l.wag1021@protonmail.com
 # For every social button you want to display, set your username or userid
 # If you do not use one of the following websites, then leave it empty
 # > twitter_username:
-github_username: 0xprashant
-linkedin_username: prashant-saini-8a7a1a162
-twitter_username: 0xprashant
+github_username: dr3amda3mon
+linkedin_username:
+twitter_username:
 
 # ABOUT ME SECTION
 # show_aboutme_card:
@@ -84,7 +84,7 @@ contact_description: Lorem ipsum dolor sit amet, consetetur sadipscing elitr, se
 # GITHUB-METADATA
 # Set this to your forked repository
 # > e.g. <user>/<user>.github.io
-repository: 0xprashant/profile
+repository: dr3amda3mon/profile
 projects:
   # sortby:
   # > set this to pushed, if you want to sort your github repositories by time.
